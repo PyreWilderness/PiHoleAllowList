@@ -1,0 +1,2 @@
+# PiHoleAllowList
+Allowlist for PiHole
